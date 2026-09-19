@@ -1,0 +1,9 @@
+.env
+.vscode
+__pycache__
+
+virtual/
+fighting.ipynb
+index.html
+temp.py
+__init__.py
